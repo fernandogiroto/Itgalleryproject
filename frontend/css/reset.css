@@ -1,0 +1,21 @@
+/*!
+ * Boostrap Css Reset
+ */
+.nav-link {
+  color: #000000;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #000000;
+  font-weight: 900;
+}
+.bg-light {
+  background-color: #f2f1f1 !important;
+}
+.navbar-toggler-icon {
+  background-color: black;
+  border-radius: 5px;
+}
+.padding-button {
+  margin-left: 30px !important;
+}
