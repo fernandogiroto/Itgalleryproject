@@ -45,6 +45,7 @@ DB_PASSWORD=root
 
 ## Developer Testing
 ```sh
+cd api
 composer install --ignore-platform-reqs
 php artisan migrate
 php artisan storage:link
