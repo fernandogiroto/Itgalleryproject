@@ -90,7 +90,7 @@ A continuación se encuentran los enlaces para consultar la documentación de lo
 | Css3 | https://developer.mozilla.org/pt-BR/docs/Web/CSS |
 | Bootstrap | https://getbootstrap.com |
 | Javascript | https://developer.mozilla.org/pt-BR/docs/Web/JavaScript |
-| Vue.js | https://vuejs.org |
+| Jquery | https://jquery.com |
 | NodeJs | https://nodejs.org/en |
 | NPM | https://docs.npmjs.com |
 
